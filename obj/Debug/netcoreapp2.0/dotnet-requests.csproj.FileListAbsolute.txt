@@ -1,0 +1,10 @@
+/Users/marcus.hunt/Sites/dotnet-requests/bin/Debug/netcoreapp2.0/dotnet-requests.deps.json
+/Users/marcus.hunt/Sites/dotnet-requests/bin/Debug/netcoreapp2.0/dotnet-requests.runtimeconfig.json
+/Users/marcus.hunt/Sites/dotnet-requests/bin/Debug/netcoreapp2.0/dotnet-requests.runtimeconfig.dev.json
+/Users/marcus.hunt/Sites/dotnet-requests/bin/Debug/netcoreapp2.0/dotnet-requests.dll
+/Users/marcus.hunt/Sites/dotnet-requests/bin/Debug/netcoreapp2.0/dotnet-requests.pdb
+/Users/marcus.hunt/Sites/dotnet-requests/obj/Debug/netcoreapp2.0/dotnet-requests.csproj.CoreCompileInputs.cache
+/Users/marcus.hunt/Sites/dotnet-requests/obj/Debug/netcoreapp2.0/dotnet-requests.AssemblyInfoInputs.cache
+/Users/marcus.hunt/Sites/dotnet-requests/obj/Debug/netcoreapp2.0/dotnet-requests.AssemblyInfo.cs
+/Users/marcus.hunt/Sites/dotnet-requests/obj/Debug/netcoreapp2.0/dotnet-requests.dll
+/Users/marcus.hunt/Sites/dotnet-requests/obj/Debug/netcoreapp2.0/dotnet-requests.pdb
