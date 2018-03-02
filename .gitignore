@@ -1,3 +1,7 @@
+# dot net project files
+bin/
+obj/
+
 # private key file
 *keys.json
 keys.json
